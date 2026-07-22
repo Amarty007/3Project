@@ -51,4 +51,4 @@ Operators - `for` Loop - `range()` Function
 
 **Name:** Amartya Dhar Dwivedi
 
-**GitHub:** Amarty007
+**GitHub:**(https://github.com/Amarty007)
